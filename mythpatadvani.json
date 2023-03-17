@@ -1,1 +1,105 @@
+{
+  "Ads": [
+      {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
 
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"file:///android_asset/ludo.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"Dede gemes Video Call Prank",
+      "image_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%201.png",
+      "video_url":"https://ia601609.us.archive.org/30/items/halu-1_202303/0303.mp4.mp4",
+      "voice_url":"https://ia902905.us.archive.org/9/items/aporee_6328_7871/MBLVD0002B.mp3"
+    },{
+      "id":1,
+      "name":"Dede gemes Video Call Prank",
+      "image_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2011.png",
+      "video_url":"https://ia601609.us.archive.org/30/items/halu-1_202303/HALU%201.mp4",
+      "voice_url":"https://ia902905.us.archive.org/9/items/aporee_6328_7871/MBLVD0002B.mp3"
+    },{
+      "id":1,
+      "name":"Dede gemes Video Call Prank",
+      "image_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2013.png",
+      "video_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2013.mp4",
+      "voice_url":"https://ia902905.us.archive.org/9/items/aporee_6328_7871/MBLVD0002B.mp3"
+    },{
+      "id":1,
+      "name":"Dede gemes Video Call Prank",
+      "image_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2014.png",
+      "video_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2014.mp4",
+      "voice_url":"https://ia902905.us.archive.org/9/items/aporee_6328_7871/MBLVD0002B.mp3"
+    },{
+      "id":1,
+      "name":"Dede gemes Video Call Prank",
+      "image_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2016.png",
+      "video_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2016.mp4",
+      "voice_url":"https://ia902905.us.archive.org/9/items/aporee_6328_7871/MBLVD0002B.mp3"
+    },{
+      "id":1,
+      "name":"Dede gemes Video Call Prank",
+      "image_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2017.png",
+      "video_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2017.mp4",
+      "voice_url":"https://ia902905.us.archive.org/9/items/aporee_6328_7871/MBLVD0002B.mp3"
+    },{
+      "id":1,
+      "name":"Dede gemes Video Call Prank",
+      "image_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2018.png",
+      "video_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2018.mp4",
+      "voice_url":"https://ia902905.us.archive.org/9/items/aporee_6328_7871/MBLVD0002B.mp3"
+    },{
+      "id":1,
+      "name":"Dede gemes Video Call Prank",
+      "image_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2019.png",
+      "video_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%2019.mp4",
+      "voice_url":"https://ia902905.us.archive.org/9/items/aporee_6328_7871/MBLVD0002B.mp3"
+    },{
+      "id":1,
+      "name":"Dede gemes Video Call Prank",
+      "image_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%202.png",
+      "video_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%202.mp4",
+      "voice_url":"https://ia902905.us.archive.org/9/items/aporee_6328_7871/MBLVD0002B.mp3"
+    },{
+      "id":1,
+      "name":"Dede gemes Video Call Prank",
+      "image_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%204.png",
+      "video_url":"https://ia601609.us.archive.org/22/items/halu-19/Dede%20gemes%20Video%20Call%20Prank/HALU%204.mp4",
+      "voice_url":"https://ia902905.us.archive.org/9/items/aporee_6328_7871/MBLVD0002B.mp3"
+    }
+  ]
+
+}
